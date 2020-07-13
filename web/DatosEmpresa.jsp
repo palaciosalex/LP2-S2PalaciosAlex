@@ -1,7 +1,7 @@
 <%-- 
-    Document   : login
-    Created on : 13/07/2020, 09:23:23 AM
-    Author     : Alex Palacios
+    Document   : DatosEmpresa
+    Created on : 13/07/2020, 10:41:23 AM
+    Author     : Alex
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -12,7 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        Ingrese usuario y clave (Version 2)
-        <a href="menu.jsp">Ingresar</a>
+        <h1>Hello World!</h1>
     </body>
 </html>
